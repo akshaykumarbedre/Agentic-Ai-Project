@@ -1,5 +1,5 @@
 ---
-title: LanggraphAgenticAI
+title: LanggraphAgentic_AI
 emoji: 🐨
 colorFrom: blue
 colorTo: red
